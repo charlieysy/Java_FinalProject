@@ -3,8 +3,8 @@ A simple Escape Game (find color and 1A2B)
 demo: https://youtu.be/7tqOaXwhNrI  
 javac *.java  
 java EscapeGame  
-
-遊戲開始畫面
+  
+遊戲開始畫面  
 ![image](https://github.com/charlieysy/Java_FinalProject/blob/main/picture/start.jpg)  
 點擊 How to play 跳出遊戲規則  
 ![image](https://github.com/charlieysy/Java_FinalProject/blob/main/picture/rule.jpg)  
